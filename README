@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1219
+
+Darkblack is an alteration to the darkblue colorscheme by Bohdan Vlasyuk.
+It provides a black background and fonts with light colors to keep them visible.
+
+Design for gui, but should look good on cterm as well.
